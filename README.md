@@ -30,21 +30,24 @@ This application serves as an employee tracker database, providing users with th
 - To connect to the database, once files are downloaded to you computer, you will need to change the user and password on line 9 and 10 of the server.js file to your own password and user name.
 
 ## Usage:
-- Open terminal and navigate to employee_tracker folder
-- Type npm init -y into terminal to create a new .json file
-- Type npm i into terminal
-- Type npm i inquirer into terminal
-- Type npm i mysql2 into terminal
-- Type npm i console.table into terminal
-- Navigate to the db folder
-- Type mysql -u root -p into terminal
-- Enter your password into terminal
-- Type source schema.sql into terminal
-- Type source seeds.sql into terminal
-- Type quit into terminal
-- Navigate back to the the employee_tracker folder in terminal
-- Type npm start into the terminal
-- Answer prompts in terminal to view, add, and update the database
+- Here are step-by-step instructions on setting up and using the Employee Tracker application:
+
+1. Open your terminal and navigate to the "employee_tracker" folder.
+2. Run the command "npm init -y" in the terminal to create a new package.json file.
+3. Install the required dependencies by running the command "npm i" in the terminal.
+4. Install the "inquirer" package by running the command "npm i inquirer" in the terminal.
+5. Install the "mysql2" package by running the command "npm i mysql2" in the terminal.
+6. Install the "console.table" package by running the command "npm i console.table" in the terminal.
+7. Navigate to the "db" folder in your terminal.
+8. Connect to your MySQL server by running the command "mysql -u root -p" in the terminal and enter your password when prompted.
+9. Import the database schema by running the command "source schema.sql" in the terminal.
+10. Import the sample data by running the command "source seeds.sql" in the terminal.
+11. Exit the MySQL server by running the command "quit" in the terminal.
+12. Go back to the "employee_tracker" folder in your terminal.
+13. Start the application by running the command "npm start" in the terminal.
+14. Follow the prompts in the terminal to view, add, and update the employees' database.
+
+These steps will help you set up and use the Employee Tracker application successfully. 
 
 Link to Video of Walkthrough for Demonstration:
 

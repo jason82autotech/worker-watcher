@@ -56,7 +56,11 @@ Placeholder for the video: https://www.youtube.com/watch
 
 Screenshots:
 
-![Screenshot](assets/img/screenshot1.png)
+![Screenshot](assets/img/add_employee_screenshot.png)
+![Screenshot](assets/img/server_start_screenshot.png)
+![Screenshot](assets/img/view_added_employee_screenshot.png)
+![Screenshot](assets/img/view_all_employees_screenshot.png)
+![Screenshot](assets/img/view_all_roles_screenshot.png)
 
 
 

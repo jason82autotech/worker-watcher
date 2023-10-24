@@ -7,8 +7,8 @@ const consoleTable = require("console.table");
 const db = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "",
-  database: "",
+  password: "root",
+  database: "employees_db",
 });
 
 // Function to start the employee tracker

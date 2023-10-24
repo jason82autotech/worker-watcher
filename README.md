@@ -27,7 +27,7 @@ This application serves as an employee tracker database, providing users with th
 - Ensure inquirer is installed
 - Ensure mysql2 is installed
 - Ensure console.table package is installed
-- To connect to the database, once files are downloaded to you computer, you will need to change the password on line 11 of the server.js file to your own password
+- To connect to the database, once files are downloaded to you computer, you will need to change the user and password on line 9 and 10 of the server.js file to your own password and user name.
 
 ## Usage:
 - Open terminal and navigate to employee_tracker folder

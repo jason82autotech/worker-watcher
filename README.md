@@ -48,7 +48,7 @@ This application serves as an employee tracker database, providing users with th
 
 Link to Video of Walkthrough for Demonstration:
 
-https://youtu.be/6G3ubKlC82c 
+Placeholder for the video: https://www.youtube.com/watch
 
 
 Screenshots:

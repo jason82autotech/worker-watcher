@@ -1,0 +1,23 @@
+{
+  "name": "employee_tracker",
+  "version": "1.0.0",
+  "description": "Employee Tracker Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "employee",
+    "tracker",
+    "management"
+  ],
+  "author": "Jason Grant",
+  "license": "MIT",
+  "dependencies": {
+    "and": "^0.0.3",
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  }
+}
+

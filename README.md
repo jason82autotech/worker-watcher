@@ -32,26 +32,26 @@ This application serves as an employee tracker database, providing users with th
 ## Usage:
 - Here are step-by-step instructions on setting up and using the Employee Tracker application:
 
-1. Open your terminal and navigate to the "employee_tracker" folder.
-2. Run the command "npm init -y" in the terminal to create a new package.json file.
-3. Install the required dependencies by running the command "npm i" in the terminal.
-4. Install the "inquirer" package by running the command "npm i inquirer" in the terminal.
-5. Install the "mysql2" package by running the command "npm i mysql2" in the terminal.
-6. Install the "console.table" package by running the command "npm i console.table" in the terminal.
-7. Navigate to the "db" folder in your terminal.
-8. Connect to your MySQL server by running the command "mysql -u root -p" in the terminal and enter your password when prompted.
-9. Import the database schema by running the command "source schema.sql" in the terminal.
-10. Import the sample data by running the command "source seeds.sql" in the terminal.
-11. Exit the MySQL server by running the command "quit" in the terminal.
-12. Go back to the "employee_tracker" folder in your terminal.
-13. Start the application by running the command "npm start" in the terminal.
-14. Follow the prompts in the terminal to view, add, and update the employees' database.
+    1. Open your terminal and navigate to the "employee_tracker" folder.
+    2. Run the command "npm init -y" in the terminal to create a new package.json file.
+    3. Install the required dependencies by running the command "npm i" in the terminal.
+    4. Install the "inquirer" package by running the command "npm i inquirer" in the terminal.
+    5. Install the "mysql2" package by running the command "npm i mysql2" in the terminal.
+    6. Install the "console.table" package by running the command "npm i console.table" in the terminal.
+    7. Navigate to the "db" folder in your terminal.
+    8. Connect to your MySQL server by running the command "mysql -u root -p" in the terminal and enter your password when prompted.
+    9. Import the database schema by running the command "source schema.sql" in the terminal.
+    10. Import the sample data by running the command "source seeds.sql" in the terminal.
+    11. Exit the MySQL server by running the command "quit" in the terminal.
+    12. Go back to the "employee_tracker" folder in your terminal.
+    13. Start the application by running the command "npm start" in the terminal.
+    14. Follow the prompts in the terminal to view, add, and update the employees' database.
 
-These steps will help you set up and use the Employee Tracker application successfully. 
+- These steps will help you set up and use the Employee Tracker application successfully. 
 
-Link to Video of Walkthrough for Demonstration:
+- Link to Video of Walkthrough for Demonstration: URL of the video: https://drive.google.com/file/d/1bJDuUcqvaZQ5tFRYLlBUOxkV2i1FUt64/view
 
-Placeholder for the video: https://www.youtube.com/watch
+- Url of the GitHub repository: https://github.com/jason82autotech/worker-watcher
 
 
 Screenshots:
